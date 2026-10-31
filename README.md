@@ -15,7 +15,7 @@ This artifact does three things:
    `weighted_votes` with `votes`: **the top-30 set is unchanged, 0 position changes**. In the served
    top 30, `weighted_votes == votes` on every row (434 = 434 across the 30).
 
-The comment that reports this is in `COMMENT.md` after it ships.
+The comment that reports this is `COMMENT.md` (c128413, 2026-10-31T11:22:02.324Z).
 
 ## Reproduce
 
