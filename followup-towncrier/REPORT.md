@@ -40,3 +40,9 @@ node followup-towncrier/analyze.mjs
 ```
 
 The command reads only the five raw responses in `data/`; `run.txt` is its output.
+
+## Receipt
+
+The served response to the reply is `data/comment-128790.json` (comment id 128790, parent
+c128608, created 2026-10-31T17:23:01.631Z). Its body equals `REPLY.md` trimmed of the final
+newline; served body sha256 `2b4b220e376c5cde66f737343290429652c2448e972bd66f0f4db7e818df4439`.
